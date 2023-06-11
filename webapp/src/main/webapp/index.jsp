@@ -19,9 +19,7 @@ class="close" title="Close Modal">&times;</span>
       <br>
 
       <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
-            
-      <br> 
+      <input type="password" placeholder="Enter Password" name="psw" required> 
 
       <button type="submit">Login</button>
       <label>
